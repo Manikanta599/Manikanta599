@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hello, I am Manikanta,<br>🎓I'm an aspiring software developer with a strong passion for coding and a hunger for learning. I recently graduated with a degree in computer science and I'm excited to kick-start my career in the world of technology.<br>💻I am currently learning Java full stack.<br>👨‍💻 I am looking for an opportunity to work and to prove my skills.<br> ** I'm always eager to tackle new challenges and collaborate on exciting projects. Let's create exceptional software together!**
+💫 About Me:
+👋 Hello, I am Manikanta,
+💼 I am currently working as an SDE1 at Schemax Tech, where I'm involved in building robust and scalable software solutions.
+🛠️ My current tech stack includes React.js, NestJS, MySQL, Java, Spring Boot, and Kafka.
+💡 I'm passionate about learning, solving real-world problems, and continuously improving as a developer.
+🚀 I enjoy taking on new challenges and collaborating with teams to deliver impactful software products.
 
 
 ## 🌐 Socials:
