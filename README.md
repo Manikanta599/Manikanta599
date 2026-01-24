@@ -1,7 +1,7 @@
 💫 About Me:
 👋 Hello, I am Manikanta,
 💼 I am currently working as an SDE1 at Schemax Tech, where I'm involved in building robust and scalable software solutions.
-🛠️ My current tech stack includes React.js, NestJS, MySQL, Java, Spring Boot, and Kafka.
+🛠️ My current tech stack includes React.js, NestJS, MySQL, Java, Spring Boot, and Redis.
 💡 I'm passionate about learning, solving real-world problems, and continuously improving as a developer.
 🚀 I enjoy taking on new challenges and collaborating with teams to deliver impactful software products.
 
